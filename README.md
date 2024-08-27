@@ -5,7 +5,7 @@
 ⚡ My preferences:
 - Language:     &emsp;&emsp;&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ML Library:   &emsp;&emsp;![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-- DB:           &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- DB:           &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
 - IDE:          &emsp;&emsp;&emsp;&emsp;&emsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ***
