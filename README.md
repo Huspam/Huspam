@@ -1,5 +1,5 @@
-### Hi👋 My name is Husam Solachuddin, and I am a senior at UC Irvine.
-### I am pursing a B.S. in Computer Science with a specialization in Intelligent Systems.
+### Hi👋 My name is Husam Solachuddin, and I am a UC Irvine CS alum.
+### I received a B.S. in Computer Science with a specialization in Intelligent Systems.
 
 ***
 ⚡ My preferences:
